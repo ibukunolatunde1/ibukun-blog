@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ibk.wtf</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on ibk.wtf</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Dec 2022 12:44:14 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yet Another DevOps Blog</title>
+      <link>/posts/welcome/</link>
+      <pubDate>Sun, 25 Dec 2022 12:44:14 +0000</pubDate>
+      
+      <guid>/posts/welcome/</guid>
+      <description>Yikes!!!, so I have decided to create my blog. I&amp;rsquo;d rather say gotten the courage, time and dedication (🙈👀) because I&amp;rsquo;ve always wanted to add my own blog to the billions of blogs out there.
+But I think this is gonna be different from all the many blogs you&amp;rsquo;ve seen, because firstly this blog is just an extension of my memory. I&amp;rsquo;ve been priviledged to work on many projects in many teams, and have done some pretty cool stuff.</description>
+      <content>&lt;p&gt;Yikes!!!, so I have decided to create my blog. I&amp;rsquo;d rather say gotten the courage, time and dedication (🙈👀) because I&amp;rsquo;ve always wanted to add my own blog to the billions of blogs out there.&lt;/p&gt;
+&lt;p&gt;But I think this is gonna be different from all the many blogs you&amp;rsquo;ve seen, because firstly this blog is just an extension of my memory. I&amp;rsquo;ve been priviledged to work on many projects in many teams, and have done some pretty cool stuff.&lt;/p&gt;
+&lt;p&gt;I want to kinda keep a mental note of it - like a hocrux - and I hope that it makes some sense to you, and you see something that you&amp;rsquo;ve either done, or learning to do, or shouldn&amp;rsquo;t even do.&lt;/p&gt;
+&lt;p&gt;Yet another devops blog, might also do other stuff asides devops, like personal writing but I&amp;rsquo;ll try to stick with work stuff (😉). I hope to make it interesting, and I hope you enjoy it. See you soon !&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

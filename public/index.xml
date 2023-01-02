@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ibk.wtf</title>
+    <link>/</link>
+    <description>Recent content on ibk.wtf</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Dec 2022 12:44:14 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>/about/</link>
+      <pubDate>Sun, 01 Jan 2023 10:37:14 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hi there! My name is Ibukun and I am a DevOps engineer with a strong focus on cloud native solutions. I have a passion for automating infrastructure and am skilled in using tools such as Terraform and Kubernetes to deploy and manage cloud environments on platforms like Azure and AWS. I&amp;rsquo;ve worked with all kinds of cloud platforms, including Azure and AWS, and know my way around a Linux terminal like a pro.</description>
+      <content>&lt;p&gt;Hi there! My name is Ibukun and I am a DevOps engineer with a strong focus on cloud native solutions. I have a passion for automating infrastructure and am skilled in using tools such as Terraform and Kubernetes to deploy and manage cloud environments on platforms like Azure and AWS. I&amp;rsquo;ve worked with all kinds of cloud platforms, including Azure and AWS, and know my way around a Linux terminal like a pro.&lt;/p&gt;
+&lt;p&gt;I have experience working on a variety of projects, including building CI/CD pipelines, implementing cloud cost optimization strategies, and improving the reliability and scalability of applications. I am proficient with Linux systems and have experience with observability and monitoring tools such as Prometheus and Grafana.&lt;/p&gt;
+&lt;p&gt;I am a strong collaborator and enjoy working with cross-functional teams to drive successful project outcomes. I am dedicated to continuous learning and am always seeking new challenges and opportunities to apply my skills.&lt;/p&gt;
+&lt;p&gt;Fast-forward to today I am a cloud consultant in the various sectors, and I’ve had the privilege of working at &lt;a href=&#34;https://ipnxnigeria.net&#34;&gt;ipNX&lt;/a&gt;, &lt;a href=&#34;https://tek-experts.com&#34;&gt;Tek Experts&lt;/a&gt;, &lt;a href=&#34;https://deimos.io&#34;&gt;Deimos&lt;/a&gt;, &lt;a href=&#34;https://gomoney.global&#34;&gt;GoMoney&lt;/a&gt; and &lt;a href=&#34;https://interswitchgroup.com&#34;&gt;Interswitch&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Yet Another DevOps Blog</title>
+      <link>/posts/welcome/</link>
+      <pubDate>Sun, 25 Dec 2022 12:44:14 +0000</pubDate>
+      
+      <guid>/posts/welcome/</guid>
+      <description>Yikes!!!, so I have decided to create my blog. I&amp;rsquo;d rather say gotten the courage, time and dedication (🙈👀) because I&amp;rsquo;ve always wanted to add my own blog to the billions of blogs out there.
+But I think this is gonna be different from all the many blogs you&amp;rsquo;ve seen, because firstly this blog is just an extension of my memory. I&amp;rsquo;ve been priviledged to work on many projects in many teams, and have done some pretty cool stuff.</description>
+      <content>&lt;p&gt;Yikes!!!, so I have decided to create my blog. I&amp;rsquo;d rather say gotten the courage, time and dedication (🙈👀) because I&amp;rsquo;ve always wanted to add my own blog to the billions of blogs out there.&lt;/p&gt;
+&lt;p&gt;But I think this is gonna be different from all the many blogs you&amp;rsquo;ve seen, because firstly this blog is just an extension of my memory. I&amp;rsquo;ve been priviledged to work on many projects in many teams, and have done some pretty cool stuff.&lt;/p&gt;
+&lt;p&gt;I want to kinda keep a mental note of it - like a hocrux - and I hope that it makes some sense to you, and you see something that you&amp;rsquo;ve either done, or learning to do, or shouldn&amp;rsquo;t even do.&lt;/p&gt;
+&lt;p&gt;Yet another devops blog, might also do other stuff asides devops, like personal writing but I&amp;rsquo;ll try to stick with work stuff (😉). I hope to make it interesting, and I hope you enjoy it. See you soon !&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
