@@ -1,1 +1,1 @@
-# ibukun-blog is under construction
+# ibukun-blog is under construction now
